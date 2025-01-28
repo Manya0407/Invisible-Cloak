@@ -1,7 +1,7 @@
 
 # 🧙‍♂️ Invisible Cloak Effect using OpenCV  
 
-✨ **Bring magic to life with computer vision!** This project demonstrates an **Invisible Cloak Effect** using OpenCV, allowing users to make selected cloak colors disappear and seamlessly blend into the background.  
+✨ This project demonstrates an **Invisible Cloak Effect** using OpenCV, allowing users to make selected cloak colors disappear and seamlessly blend into the background.  
 
 ---
 
@@ -62,6 +62,8 @@
 4. To exit the program, press **'q'**.  
 
 ---
+## **Screenshots**
+![Colour Selection](https://github.com/Manya0407/Invisible-Cloak/blob/main/ss1.png?raw=true)
 
-
+![Colour Selection](https://github.com/Manya0407/Invisible-Cloak/blob/main/ss2.png?raw=true)
 
